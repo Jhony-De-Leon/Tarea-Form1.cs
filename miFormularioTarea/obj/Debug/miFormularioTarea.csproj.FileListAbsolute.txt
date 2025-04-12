@@ -1,0 +1,10 @@
+C:\P1\miFormularioTarea\miFormularioTarea\bin\Debug\miFormularioTarea.exe.config
+C:\P1\miFormularioTarea\miFormularioTarea\bin\Debug\miFormularioTarea.exe
+C:\P1\miFormularioTarea\miFormularioTarea\bin\Debug\miFormularioTarea.pdb
+C:\P1\miFormularioTarea\miFormularioTarea\obj\Debug\miFormularioTarea.csproj.AssemblyReference.cache
+C:\P1\miFormularioTarea\miFormularioTarea\obj\Debug\miFormularioTarea.Form1.resources
+C:\P1\miFormularioTarea\miFormularioTarea\obj\Debug\miFormularioTarea.Properties.Resources.resources
+C:\P1\miFormularioTarea\miFormularioTarea\obj\Debug\miFormularioTarea.csproj.GenerateResource.cache
+C:\P1\miFormularioTarea\miFormularioTarea\obj\Debug\miFormularioTarea.csproj.CoreCompileInputs.cache
+C:\P1\miFormularioTarea\miFormularioTarea\obj\Debug\miFormularioTarea.exe
+C:\P1\miFormularioTarea\miFormularioTarea\obj\Debug\miFormularioTarea.pdb
